@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsali1&label=Profile%20views&color=0e75b6&style=flat" alt="hsali1" /> </p>
-
+<br>
 Hello there,
 
 I am an undergraduate student at UC Davis currently pursuing a bachelors in Computer Science. I am currently learning several ways Python can be used for Data Analysis. Some projects I plan to build during summer are:
