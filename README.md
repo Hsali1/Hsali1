@@ -5,7 +5,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsali1&label=Profile%20views&color=0e75b6&style=flat" alt="hsali1" /> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms with C++ and RISCV**
+- 🌱 My coursework includes: 
+- <ul>
+    <li>Data Structures & Algorithms with C++</li>
+    <li>Machine Dependant Programming with RISC</li>
+    <li>Computer Architecture</li>
+    <li>Database Design</li>
+    <li>Theory of Computation</li>
+    <li>Algorithm Design & Analysis</li>
+  </ul>
+
+In Spring Quarter 2024 I will be taking the following courses:
+- <ul>
+    <li>Introduction to Artificial Intelligence</li>
+    <li>Probability & Statistical Modeling for Computer Science</li>
+    <li>Operating Systems & System Programming</li>
+    <li>Web Programming</li>
+  </ul>
 
 - 📫 How to reach me **hassanalisid1996@gmail.com**
 
