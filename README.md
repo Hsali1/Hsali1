@@ -5,10 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsali1&label=Profile%20views&color=0e75b6&style=flat" alt="hsali1" /> </p>
 
-I am an undergraduate student at UC Davis currently completing my bachelors in Computer Science. I am currently learning several ways Python can be used for Data Analysis. Some projects I plan to build during summer are:
-- A Game: I always thought about trying to make a game and coming across frameworks like Pygame I think I should try now as it will allow me to practice several concepts regarding Object Oriented programming.
-- Security Camera: I currently use the Blink cameras and it can be distracting when it keeps recording with the slightest movement. I thought I could try to build a program that utilizes a camera and only starts to record when a person walks in. Then maybe I could have some functionality to only record when someone I don't know enters. I think this would require a lot of image processing and machine learning. 
-- Self Learning AI: I am very interested in this area and plan to learn more about this over the summer. 
+Hello there,
+
+I am an undergraduate student at UC Davis currently pursuing a bachelors in Computer Science. I am currently learning several ways Python can be used for Data Analysis. Some projects I plan to build during summer are:
+- A Game: I always thought about trying to make a game and coming across frameworks like Pygame motivated me to turn my ideas into action. Through the lens of this proeject, I will also be able to practice several concepts regarding Object Oriented programming.
+- Security Camera: I currently use a security camera and it can be distracting when it keeps recording with the slightest movement. I thought I could try to build a program that utilizes a camera and only starts to record when a person walks in and is overall more sensitive to movement. Then maybe I could have some functionality to only record when someone I don't know enters. 
 
 🌱 My coursework includes: 
 <ul>
