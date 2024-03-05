@@ -5,25 +5,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsali1&label=Profile%20views&color=0e75b6&style=flat" alt="hsali1" /> </p>
 
-- 🌱 My coursework includes: 
-- <ul>
+🌱 My coursework includes: 
+<ul>
     <li>Data Structures & Algorithms with C++</li>
     <li>Machine Dependant Programming with RISC</li>
     <li>Computer Architecture</li>
     <li>Database Design</li>
     <li>Theory of Computation</li>
     <li>Algorithm Design & Analysis</li>
-  </ul>
+</ul>
 
 In Spring Quarter 2024 I will be taking the following courses:
-- <ul>
+<ul>
     <li>Introduction to Artificial Intelligence</li>
     <li>Probability & Statistical Modeling for Computer Science</li>
     <li>Operating Systems & System Programming</li>
     <li>Web Programming</li>
-  </ul>
+</ul>
 
-- 📫 How to reach me **hassanalisid1996@gmail.com**
+📫 How to reach me **hassanalisid1996@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
