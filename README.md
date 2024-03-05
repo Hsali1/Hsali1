@@ -5,12 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsali1&label=Profile%20views&color=0e75b6&style=flat" alt="hsali1" /> </p>
 
+<p align= "left">
 Hello there,
 
 I am an undergraduate student at UC Davis currently pursuing a bachelors in Computer Science. I am currently learning several ways Python can be used for Data Analysis. Some projects I plan to build during summer are:
 <br>
 - A Game: I always thought about trying to make a game and coming across frameworks like Pygame motivated me to turn my ideas into action. Through the lens of this proeject, I will also be able to practice several concepts regarding Object Oriented programming.
-- Security Camera: I currently use a security camera and it can be distracting when it keeps recording with the slightest movement. I thought I could try to build a program that utilizes a camera and only starts to record when a person walks in and is overall more sensitive to movement. Then maybe I could have some functionality to only record when someone I don't know enters. 
+- Security Camera: I currently use a security camera and it can be distracting when it keeps recording with the slightest movement. I thought I could try to build a program that utilizes a camera and only starts to record when a person walks in and is overall more sensitive to movement. Then maybe I could have some functionality to only record when someone I don't know enters.
+</p>
 
 🌱 My coursework includes: 
 <ul>
