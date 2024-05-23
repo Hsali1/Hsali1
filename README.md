@@ -21,7 +21,6 @@ I am an undergraduate student at UC Davis currently pursuing a bachelors in Comp
 
 In Spring Quarter 2024 I will be taking the following courses:
 <ul>
-    <li>Introduction to Artificial Intelligence</li>
     <li>Probability & Statistical Modeling for Computer Science</li>
     <li>Operating Systems & System Programming</li>
     <li>Web Programming</li>
