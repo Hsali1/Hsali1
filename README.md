@@ -17,13 +17,16 @@ I am an undergraduate student at UC Davis currently pursuing a bachelors in Comp
     <li>Database Design</li>
     <li>Theory of Computation</li>
     <li>Algorithm Design & Analysis</li>
-</ul>
-
-In Spring Quarter 2024 I will be taking the following courses:
-<ul>
     <li>Probability & Statistical Modeling for Computer Science</li>
     <li>Operating Systems & System Programming</li>
     <li>Web Programming</li>
+</ul>
+
+In Fall Quarter 2024 I will be taking the following courses:
+<ul>
+    <li>Programming Languages</li>
+    <li>Computer Networks</li>
+    <li>Computer Graphics</li>
 </ul>
 
 📫 How to reach me **hassanalisid1996@gmail.com**
