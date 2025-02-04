@@ -25,7 +25,7 @@ I am an undergraduate student at UC Davis currently pursuing a bachelors in Comp
     <li>Computer Graphics</li>
 </ul>
 
-In Fall Quarter 2024 I will be taking the following courses:
+In Winter Quarter 2025 I will be taking the following courses:
 <ul>
     <li>Software Engineering</li>
     <li>Human-Computer Interaction</li>
