@@ -11,18 +11,10 @@ I am an undergraduate student at UC Davis currently pursuing a bachelors in Comp
 
 🌱 My coursework includes: 
 <ul>
-    <li>Data Structures & Algorithms with C/C++</li>
-    <li>Machine Dependant Programming with RISC</li>
-    <li>Computer Architecture</li>
-    <li>Database Design</li>
-    <li>Theory of Computation</li>
-    <li>Algorithm Design & Analysis</li>
-    <li>Probability & Statistical Modeling for Computer Science</li>
-    <li>Operating Systems & System Programming</li>
-    <li>Web Programming</li>
-    <li>Programming Languages</li>
-    <li>Computer Networks</li>
-    <li>Computer Graphics</li>
+    <li>Programming & Software Design: Data Structures, Object-Oriented Programming, Programming Languages, Software Engineering, Human-Computer Interaction</li>
+    <li>Systems & Architecture: Operating Systems, Computer Architecture, Machine Dependent Programming, Computer Networks</li>
+    <li>Algorithms & Theory: Algorithms & Analysis, Theory of Computation, Probability & Statistics for CS</li>
+    <li>Web & Applications: Web Programming, Artificial Intelligence, Database Design, Computer Graphics</li>
 </ul>
 
 In Winter Quarter 2025 I will be taking the following courses:
