@@ -67,3 +67,4 @@ In Winter Quarter 2025 I will be taking the following courses:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsali1&show_icons=true&locale=en" alt="hsali1" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=hsali1" alt="hsali1" /></p>
+[![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsali1)]
