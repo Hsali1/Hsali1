@@ -17,11 +17,12 @@ I am an undergraduate student at UC Davis currently pursuing a bachelors in Comp
     <li>Web & Applications: Web Programming, Artificial Intelligence, Database Design, Computer Graphics</li>
 </ul>
 
-In Winter Quarter 2025 I will be taking the following courses:
+In Spring Quarter 2025 I will be taking the following courses:
 <ul>
-    <li>Software Engineering</li>
-    <li>Human-Computer Interaction</li>
-    <li>Introduction to Artificial Intelligence</li>
+    <li>Machine Learning</li>
+    <li>Ethics in an Age of Technology</li>
+    <li>Introduction to Probability Theory</li>
+    <li></li>
 </ul>
 
 📫 How to reach me: [hassanalisid1996@gmail.com](mailto:hassanalisid1996@gmail.com)
