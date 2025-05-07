@@ -7,7 +7,7 @@
 
 Hello there,
 
-I am an undergraduate student at UC Davis currently pursuing a bachelors in Computer Science.
+I am an undergraduate student at UC Davis currently pursuing a bachelors in Computer Science and will be graduating in June 2025.
 
 🌱 My coursework includes: 
 <ul>
