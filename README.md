@@ -7,7 +7,7 @@
 
 Hello there,
 
-I am an undergraduate from UC Davis currently with a bachelors in Computer Science.
+I am an undergraduate from UC Davis with a bachelors in Computer Science.
 
 🌱 My coursework includes: 
 <ul>
