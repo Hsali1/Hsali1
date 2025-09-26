@@ -7,24 +7,54 @@
 
 Hello there,
 
-I am an undergraduate student at UC Davis currently pursuing a bachelors in Computer Science and will be graduating in June 2025.
+I am an undergraduate from UC Davis currently with a bachelors in Computer Science.
 
 🌱 My coursework includes: 
 <ul>
-    <li>Programming & Software Design: Data Structures, Object-Oriented Programming, Programming Languages, Software Engineering, Human-Computer Interaction</li>
-    <li>Systems & Architecture: Operating Systems, Computer Architecture, Machine Dependent Programming, Computer Networks</li>
-    <li>Algorithms & Theory: Algorithms & Analysis, Theory of Computation, Probability & Statistics for CS</li>
-    <li>Web & Applications: Web Programming, Artificial Intelligence, Database Design, Computer Graphics</li>
+  <li><strong>Programming & Software Design</strong>
+    <ul>
+      <li>Data Structures</li>
+      <li>Object-Oriented Programming</li>
+      <li>Programming Languages</li>
+      <li>Software Engineering</li>
+      <li>Human-Computer Interaction</li>
+    </ul>
+  </li>
+  
+  <li><strong>Systems & Architecture</strong>
+    <ul>
+      <li>Operating Systems</li>
+      <li>Computer Architecture</li>
+      <li>Machine Dependent Programming</li>
+      <li>Computer Networks</li>
+    </ul>
+  </li>
+  
+  <li><strong>Algorithms & Theory</strong>
+    <ul>
+      <li>Algorithms & Analysis</li>
+      <li>Theory of Computation</li>
+      <li>Probability & Statistics for Computer Science</li>
+      <li>Introduction to Probability Theory</li>
+    </ul>
+  </li>
+  
+  <li><strong>Web & Applications</strong>
+    <ul>
+      <li>Web Programming</li>
+      <li>Database Design</li>
+      <li>Computer Graphics</li>
+      <li>Artificial Intelligence</li>
+      <li>Machine Learning</li>
+    </ul>
+  </li>
+  
+  <li><strong>Ethics & Society</strong>
+    <ul>
+      <li>Ethics in an Age of Technology</li>
+    </ul>
+  </li>
 </ul>
-
-In Spring Quarter 2025 I will be taking the following courses:
-<ul>
-    <li>Machine Learning</li>
-    <li>Ethics in an Age of Technology</li>
-    <li>Introduction to Probability Theory</li>
-    <li></li>
-</ul>
-
 📫 How to reach me: [hassanalisid1996@gmail.com](mailto:hassanalisid1996@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
