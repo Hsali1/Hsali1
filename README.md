@@ -55,6 +55,9 @@ I am an undergraduate from UC Davis with a bachelors in Computer Science.
     </ul>
   </li>
 </ul>
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/89c63c09-672a-4b5f-a88c-6cb46381bd00/thumbnail" >
+</p>
 📫 How to reach me: [hassanalisid1996@gmail.com](mailto:hassanalisid1996@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
