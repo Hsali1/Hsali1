@@ -97,7 +97,7 @@ I am an undergraduate from UC Davis with a bachelors in Computer Science.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hsali1&show_icons=true&locale=en&layout=compact" alt="hsali1" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsali1&exclude_repo=ECS171-Fraud-Detection&layout=compact" alt="hsali1" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsali1&show_icons=true&locale=en" alt="hsali1" /></p>
 
