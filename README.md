@@ -66,7 +66,6 @@ I am an undergraduate from UC Davis with a bachelors in Computer Science.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hsali1&exclude_repo=ECS171-Fraud-Detection&layout=compact)
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
